@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#MISE description="Download language code data from iso639-3.sil.org and convert to CSV"
+
+set -euo pipefail
+
+function url-to-csv() {
+    curl -s "$1" | dasel -r csv --csv-write-comma , --csv-comma '	' > "$2"
+    echo "Updated $2"
+}
+
+url-to-csv 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab' \
+    language-codes/language-codes.csv
+
+url-to-csv 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Name_Index.tab' \
+    language-codes/language-names.csv
+
+url-to-csv 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3-macrolanguages.tab' \
+    language-codes/macrolanguage-mappings.csv
+
+url-to-csv 'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Retirements.tab' \
+    language-codes/deprecated-code-mappings.csv

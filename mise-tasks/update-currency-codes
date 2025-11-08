@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 #MISE description="Download currency code XMLs from SIX and transform them into CSV"
 
+set -euo pipefail
+
 function url-to-csv() {
     curl -s "$1" | dasel -r xml -w csv "$2" > "$3"
     echo "Updated $3"
