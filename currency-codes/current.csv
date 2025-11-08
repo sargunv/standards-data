@@ -1,281 +1,281 @@
-Ccy,CcyMnrUnts,CcyNbr,CcyNm,CtryNm
-AFN,2,971,Afghani,AFGHANISTAN
-EUR,2,978,Euro,ÅLAND ISLANDS
-ALL,2,008,Lek,ALBANIA
-DZD,2,012,Algerian Dinar,ALGERIA
-USD,2,840,US Dollar,AMERICAN SAMOA
-EUR,2,978,Euro,ANDORRA
-AOA,2,973,Kwanza,ANGOLA
-XCD,2,951,East Caribbean Dollar,ANGUILLA
-,,,No universal currency,ANTARCTICA
-XCD,2,951,East Caribbean Dollar,ANTIGUA AND BARBUDA
-XAD,2,396,Arab Accounting Dinar,ARAB MONETARY FUND
-ARS,2,032,Argentine Peso,ARGENTINA
-AMD,2,051,Armenian Dram,ARMENIA
-AWG,2,533,Aruban Florin,ARUBA
-AUD,2,036,Australian Dollar,AUSTRALIA
-EUR,2,978,Euro,AUSTRIA
-AZN,2,944,Azerbaijan Manat,AZERBAIJAN
-BSD,2,044,Bahamian Dollar,BAHAMAS (THE)
-BHD,3,048,Bahraini Dinar,BAHRAIN
-BDT,2,050,Taka,BANGLADESH
-BBD,2,052,Barbados Dollar,BARBADOS
-BYN,2,933,Belarusian Ruble,BELARUS
-EUR,2,978,Euro,BELGIUM
-BZD,2,084,Belize Dollar,BELIZE
-XOF,0,952,CFA Franc BCEAO,BENIN
-BMD,2,060,Bermudian Dollar,BERMUDA
-INR,2,356,Indian Rupee,BHUTAN
-BTN,2,064,Ngultrum,BHUTAN
-BOB,2,068,Boliviano,BOLIVIA (PLURINATIONAL STATE OF)
-BOV,2,984,map[#text:Mvdol -IsFund:true],BOLIVIA (PLURINATIONAL STATE OF)
-USD,2,840,US Dollar,"BONAIRE, SINT EUSTATIUS AND SABA"
-BAM,2,977,Convertible Mark,BOSNIA AND HERZEGOVINA
-BWP,2,072,Pula,BOTSWANA
-NOK,2,578,Norwegian Krone,BOUVET ISLAND
-BRL,2,986,Brazilian Real,BRAZIL
-USD,2,840,US Dollar,BRITISH INDIAN OCEAN TERRITORY (THE)
-BND,2,096,Brunei Dollar,BRUNEI DARUSSALAM
-BGN,2,975,Bulgarian Lev,BULGARIA
-XOF,0,952,CFA Franc BCEAO,BURKINA FASO
-BIF,0,108,Burundi Franc,BURUNDI
-CVE,2,132,Cabo Verde Escudo,CABO VERDE
-KHR,2,116,Riel,CAMBODIA
-XAF,0,950,CFA Franc BEAC,CAMEROON
-CAD,2,124,Canadian Dollar,CANADA
-KYD,2,136,Cayman Islands Dollar,CAYMAN ISLANDS (THE)
-XAF,0,950,CFA Franc BEAC,CENTRAL AFRICAN REPUBLIC (THE)
-XAF,0,950,CFA Franc BEAC,CHAD
-CLP,0,152,Chilean Peso,CHILE
-CLF,4,990,map[#text:Unidad de Fomento -IsFund:true],CHILE
-CNY,2,156,Yuan Renminbi,CHINA
-AUD,2,036,Australian Dollar,CHRISTMAS ISLAND
-AUD,2,036,Australian Dollar,COCOS (KEELING) ISLANDS (THE)
-COP,2,170,Colombian Peso,COLOMBIA
-COU,2,970,map[#text:Unidad de Valor Real -IsFund:true],COLOMBIA
-KMF,0,174,Comorian Franc,COMOROS (THE)
-CDF,2,976,Congolese Franc,CONGO (THE DEMOCRATIC REPUBLIC OF THE)
-XAF,0,950,CFA Franc BEAC,CONGO (THE)
-NZD,2,554,New Zealand Dollar,COOK ISLANDS (THE)
-CRC,2,188,Costa Rican Colon,COSTA RICA
-XOF,0,952,CFA Franc BCEAO,CÔTE D&apos;IVOIRE
-EUR,2,978,Euro,CROATIA
-CUP,2,192,Cuban Peso,CUBA
-XCG,2,532,Caribbean Guilder,CURAÇAO
-EUR,2,978,Euro,CYPRUS
-CZK,2,203,Czech Koruna,CZECHIA
-DKK,2,208,Danish Krone,DENMARK
-DJF,0,262,Djibouti Franc,DJIBOUTI
-XCD,2,951,East Caribbean Dollar,DOMINICA
-DOP,2,214,Dominican Peso,DOMINICAN REPUBLIC (THE)
-USD,2,840,US Dollar,ECUADOR
-EGP,2,818,Egyptian Pound,EGYPT
-SVC,2,222,El Salvador Colon,EL SALVADOR
-USD,2,840,US Dollar,EL SALVADOR
-XAF,0,950,CFA Franc BEAC,EQUATORIAL GUINEA
-ERN,2,232,Nakfa,ERITREA
-EUR,2,978,Euro,ESTONIA
-SZL,2,748,Lilangeni,ESWATINI
-ETB,2,230,Ethiopian Birr,ETHIOPIA
-EUR,2,978,Euro,EUROPEAN UNION
-FKP,2,238,Falkland Islands Pound,FALKLAND ISLANDS (THE) [MALVINAS]
-DKK,2,208,Danish Krone,FAROE ISLANDS (THE)
-FJD,2,242,Fiji Dollar,FIJI
-EUR,2,978,Euro,FINLAND
-EUR,2,978,Euro,FRANCE
-EUR,2,978,Euro,FRENCH GUIANA
-XPF,0,953,CFP Franc,FRENCH POLYNESIA
-EUR,2,978,Euro,FRENCH SOUTHERN TERRITORIES (THE)
-XAF,0,950,CFA Franc BEAC,GABON
-GMD,2,270,Dalasi,GAMBIA (THE)
-GEL,2,981,Lari,GEORGIA
-EUR,2,978,Euro,GERMANY
-GHS,2,936,Ghana Cedi,GHANA
-GIP,2,292,Gibraltar Pound,GIBRALTAR
-EUR,2,978,Euro,GREECE
-DKK,2,208,Danish Krone,GREENLAND
-XCD,2,951,East Caribbean Dollar,GRENADA
-EUR,2,978,Euro,GUADELOUPE
-USD,2,840,US Dollar,GUAM
-GTQ,2,320,Quetzal,GUATEMALA
-GBP,2,826,Pound Sterling,GUERNSEY
-GNF,0,324,Guinean Franc,GUINEA
-XOF,0,952,CFA Franc BCEAO,GUINEA-BISSAU
-GYD,2,328,Guyana Dollar,GUYANA
-HTG,2,332,Gourde,HAITI
-USD,2,840,US Dollar,HAITI
-AUD,2,036,Australian Dollar,HEARD ISLAND AND McDONALD ISLANDS
-EUR,2,978,Euro,HOLY SEE (THE)
-HNL,2,340,Lempira,HONDURAS
-HKD,2,344,Hong Kong Dollar,HONG KONG
-HUF,2,348,Forint,HUNGARY
-ISK,0,352,Iceland Krona,ICELAND
-INR,2,356,Indian Rupee,INDIA
-IDR,2,360,Rupiah,INDONESIA
-XDR,N.A.,960,SDR (Special Drawing Right),INTERNATIONAL MONETARY FUND (IMF)
-IRR,2,364,Iranian Rial,IRAN (ISLAMIC REPUBLIC OF)
-IQD,3,368,Iraqi Dinar,IRAQ
-EUR,2,978,Euro,IRELAND
-GBP,2,826,Pound Sterling,ISLE OF MAN
-ILS,2,376,New Israeli Sheqel,ISRAEL
-EUR,2,978,Euro,ITALY
-JMD,2,388,Jamaican Dollar,JAMAICA
-JPY,0,392,Yen,JAPAN
-GBP,2,826,Pound Sterling,JERSEY
-JOD,3,400,Jordanian Dinar,JORDAN
-KZT,2,398,Tenge,KAZAKHSTAN
-KES,2,404,Kenyan Shilling,KENYA
-AUD,2,036,Australian Dollar,KIRIBATI
-KPW,2,408,North Korean Won,KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)
-KRW,0,410,Won,KOREA (THE REPUBLIC OF)
-KWD,3,414,Kuwaiti Dinar,KUWAIT
-KGS,2,417,Som,KYRGYZSTAN
-LAK,2,418,Lao Kip,LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)
-EUR,2,978,Euro,LATVIA
-LBP,2,422,Lebanese Pound,LEBANON
-LSL,2,426,Loti,LESOTHO
-ZAR,2,710,Rand,LESOTHO
-LRD,2,430,Liberian Dollar,LIBERIA
-LYD,3,434,Libyan Dinar,LIBYA
-CHF,2,756,Swiss Franc,LIECHTENSTEIN
-EUR,2,978,Euro,LITHUANIA
-EUR,2,978,Euro,LUXEMBOURG
-MOP,2,446,Pataca,MACAO
-MKD,2,807,Denar,NORTH MACEDONIA
-MGA,2,969,Malagasy Ariary,MADAGASCAR
-MWK,2,454,Malawi Kwacha,MALAWI
-MYR,2,458,Malaysian Ringgit,MALAYSIA
-MVR,2,462,Rufiyaa,MALDIVES
-XOF,0,952,CFA Franc BCEAO,MALI
-EUR,2,978,Euro,MALTA
-USD,2,840,US Dollar,MARSHALL ISLANDS (THE)
-EUR,2,978,Euro,MARTINIQUE
-MRU,2,929,Ouguiya,MAURITANIA
-MUR,2,480,Mauritius Rupee,MAURITIUS
-EUR,2,978,Euro,MAYOTTE
-XUA,N.A.,965,ADB Unit of Account,MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP
-MXN,2,484,Mexican Peso,MEXICO
-MXV,2,979,map[#text:Mexican Unidad de Inversion (UDI) -IsFund:true],MEXICO
-USD,2,840,US Dollar,MICRONESIA (FEDERATED STATES OF)
-MDL,2,498,Moldovan Leu,MOLDOVA (THE REPUBLIC OF)
-EUR,2,978,Euro,MONACO
-MNT,2,496,Tugrik,MONGOLIA
-EUR,2,978,Euro,MONTENEGRO
-XCD,2,951,East Caribbean Dollar,MONTSERRAT
-MAD,2,504,Moroccan Dirham,MOROCCO
-MZN,2,943,Mozambique Metical,MOZAMBIQUE
-MMK,2,104,Kyat,MYANMAR
-NAD,2,516,Namibia Dollar,NAMIBIA
-ZAR,2,710,Rand,NAMIBIA
-AUD,2,036,Australian Dollar,NAURU
-NPR,2,524,Nepalese Rupee,NEPAL
-EUR,2,978,Euro,NETHERLANDS (THE)
-XPF,0,953,CFP Franc,NEW CALEDONIA
-NZD,2,554,New Zealand Dollar,NEW ZEALAND
-NIO,2,558,Cordoba Oro,NICARAGUA
-XOF,0,952,CFA Franc BCEAO,NIGER (THE)
-NGN,2,566,Naira,NIGERIA
-NZD,2,554,New Zealand Dollar,NIUE
-AUD,2,036,Australian Dollar,NORFOLK ISLAND
-USD,2,840,US Dollar,NORTHERN MARIANA ISLANDS (THE)
-NOK,2,578,Norwegian Krone,NORWAY
-OMR,3,512,Rial Omani,OMAN
-PKR,2,586,Pakistan Rupee,PAKISTAN
-USD,2,840,US Dollar,PALAU
-,,,No universal currency,"PALESTINE, STATE OF"
-PAB,2,590,Balboa,PANAMA
-USD,2,840,US Dollar,PANAMA
-PGK,2,598,Kina,PAPUA NEW GUINEA
-PYG,0,600,Guarani,PARAGUAY
-PEN,2,604,Sol,PERU
-PHP,2,608,Philippine Peso,PHILIPPINES (THE)
-NZD,2,554,New Zealand Dollar,PITCAIRN
-PLN,2,985,Zloty,POLAND
-EUR,2,978,Euro,PORTUGAL
-USD,2,840,US Dollar,PUERTO RICO
-QAR,2,634,Qatari Rial,QATAR
-EUR,2,978,Euro,RÉUNION
-RON,2,946,Romanian Leu,ROMANIA
-RUB,2,643,Russian Ruble,RUSSIAN FEDERATION (THE)
-RWF,0,646,Rwanda Franc,RWANDA
-EUR,2,978,Euro,SAINT BARTHÉLEMY
-SHP,2,654,Saint Helena Pound,"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
-XCD,2,951,East Caribbean Dollar,SAINT KITTS AND NEVIS
-XCD,2,951,East Caribbean Dollar,SAINT LUCIA
-EUR,2,978,Euro,SAINT MARTIN (FRENCH PART)
-EUR,2,978,Euro,SAINT PIERRE AND MIQUELON
-XCD,2,951,East Caribbean Dollar,SAINT VINCENT AND THE GRENADINES
-WST,2,882,Tala,SAMOA
-EUR,2,978,Euro,SAN MARINO
-STN,2,930,Dobra,SAO TOME AND PRINCIPE
-SAR,2,682,Saudi Riyal,SAUDI ARABIA
-XOF,0,952,CFA Franc BCEAO,SENEGAL
-RSD,2,941,Serbian Dinar,SERBIA
-SCR,2,690,Seychelles Rupee,SEYCHELLES
-SLE,2,925,Leone,SIERRA LEONE
-SGD,2,702,Singapore Dollar,SINGAPORE
-XCG,2,532,Caribbean Guilder,SINT MAARTEN (DUTCH PART)
-XSU,N.A.,994,Sucre,SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS &quot;SUCRE&quot;
-EUR,2,978,Euro,SLOVAKIA
-EUR,2,978,Euro,SLOVENIA
-SBD,2,090,Solomon Islands Dollar,SOLOMON ISLANDS
-SOS,2,706,Somali Shilling,SOMALIA
-ZAR,2,710,Rand,SOUTH AFRICA
-,,,No universal currency,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS
-SSP,2,728,South Sudanese Pound,SOUTH SUDAN
-EUR,2,978,Euro,SPAIN
-LKR,2,144,Sri Lanka Rupee,SRI LANKA
-SDG,2,938,Sudanese Pound,SUDAN (THE)
-SRD,2,968,Surinam Dollar,SURINAME
-NOK,2,578,Norwegian Krone,SVALBARD AND JAN MAYEN
-SEK,2,752,Swedish Krona,SWEDEN
-CHF,2,756,Swiss Franc,SWITZERLAND
-CHE,2,947,map[#text:WIR Euro -IsFund:true],SWITZERLAND
-CHW,2,948,map[#text:WIR Franc -IsFund:true],SWITZERLAND
-SYP,2,760,Syrian Pound,SYRIAN ARAB REPUBLIC
-TWD,2,901,New Taiwan Dollar,TAIWAN (PROVINCE OF CHINA)
-TJS,2,972,Somoni,TAJIKISTAN
-TZS,2,834,Tanzanian Shilling,"TANZANIA, UNITED REPUBLIC OF"
-THB,2,764,Baht,THAILAND
-USD,2,840,US Dollar,TIMOR-LESTE
-XOF,0,952,CFA Franc BCEAO,TOGO
-NZD,2,554,New Zealand Dollar,TOKELAU
-TOP,2,776,Pa’anga,TONGA
-TTD,2,780,Trinidad and Tobago Dollar,TRINIDAD AND TOBAGO
-TND,3,788,Tunisian Dinar,TUNISIA
-TRY,2,949,Turkish Lira,TÜRKİYE
-TMT,2,934,Turkmenistan New Manat,TURKMENISTAN
-USD,2,840,US Dollar,TURKS AND CAICOS ISLANDS (THE)
-AUD,2,036,Australian Dollar,TUVALU
-UGX,0,800,Uganda Shilling,UGANDA
-UAH,2,980,Hryvnia,UKRAINE
-AED,2,784,UAE Dirham,UNITED ARAB EMIRATES (THE)
-GBP,2,826,Pound Sterling,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)
-USD,2,840,US Dollar,UNITED STATES MINOR OUTLYING ISLANDS (THE)
-USD,2,840,US Dollar,UNITED STATES OF AMERICA (THE)
-USN,2,997,map[#text:US Dollar (Next day) -IsFund:true],UNITED STATES OF AMERICA (THE)
-UYU,2,858,Peso Uruguayo,URUGUAY
-UYI,0,940,map[#text:Uruguay Peso en Unidades Indexadas (UI) -IsFund:true],URUGUAY
-UYW,4,927,Unidad Previsional,URUGUAY
-UZS,2,860,Uzbekistan Sum,UZBEKISTAN
-VUV,0,548,Vatu,VANUATU
-VES,2,928,Bolívar Soberano,VENEZUELA (BOLIVARIAN REPUBLIC OF)
-VED,2,926,Bolívar Soberano,VENEZUELA (BOLIVARIAN REPUBLIC OF)
-VND,0,704,Dong,VIET NAM
-USD,2,840,US Dollar,VIRGIN ISLANDS (BRITISH)
-USD,2,840,US Dollar,VIRGIN ISLANDS (U.S.)
-XPF,0,953,CFP Franc,WALLIS AND FUTUNA
-MAD,2,504,Moroccan Dirham,WESTERN SAHARA
-YER,2,886,Yemeni Rial,YEMEN
-ZMW,2,967,Zambian Kwacha,ZAMBIA
-ZWG,2,924,Zimbabwe Gold,ZIMBABWE
-XBA,N.A.,955,Bond Markets Unit European Composite Unit (EURCO),ZZ01_Bond Markets Unit European_EURCO
-XBB,N.A.,956,Bond Markets Unit European Monetary Unit (E.M.U.-6),ZZ02_Bond Markets Unit European_EMU-6
-XBC,N.A.,957,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),ZZ03_Bond Markets Unit European_EUA-9
-XBD,N.A.,958,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),ZZ04_Bond Markets Unit European_EUA-17
-XTS,N.A.,963,Codes specifically reserved for testing purposes,ZZ06_Testing_Code
-XXX,N.A.,999,The codes assigned for transactions where no currency is involved,ZZ07_No_Currency
-XAU,N.A.,959,Gold,ZZ08_Gold
-XPD,N.A.,964,Palladium,ZZ09_Palladium
-XPT,N.A.,962,Platinum,ZZ10_Platinum
-XAG,N.A.,961,Silver,ZZ11_Silver
+Country Name,Currency Code,Currency Number,Is Fund,Minor Units,Name
+AFGHANISTAN,AFN,971,false,2,Afghani
+ÅLAND ISLANDS,EUR,978,false,2,Euro
+ALBANIA,ALL,008,false,2,Lek
+ALGERIA,DZD,012,false,2,Algerian Dinar
+AMERICAN SAMOA,USD,840,false,2,US Dollar
+ANDORRA,EUR,978,false,2,Euro
+ANGOLA,AOA,973,false,2,Kwanza
+ANGUILLA,XCD,951,false,2,East Caribbean Dollar
+ANTARCTICA,,,false,,No universal currency
+ANTIGUA AND BARBUDA,XCD,951,false,2,East Caribbean Dollar
+ARAB MONETARY FUND,XAD,396,false,2,Arab Accounting Dinar
+ARGENTINA,ARS,032,false,2,Argentine Peso
+ARMENIA,AMD,051,false,2,Armenian Dram
+ARUBA,AWG,533,false,2,Aruban Florin
+AUSTRALIA,AUD,036,false,2,Australian Dollar
+AUSTRIA,EUR,978,false,2,Euro
+AZERBAIJAN,AZN,944,false,2,Azerbaijan Manat
+BAHAMAS (THE),BSD,044,false,2,Bahamian Dollar
+BAHRAIN,BHD,048,false,3,Bahraini Dinar
+BANGLADESH,BDT,050,false,2,Taka
+BARBADOS,BBD,052,false,2,Barbados Dollar
+BELARUS,BYN,933,false,2,Belarusian Ruble
+BELGIUM,EUR,978,false,2,Euro
+BELIZE,BZD,084,false,2,Belize Dollar
+BENIN,XOF,952,false,0,CFA Franc BCEAO
+BERMUDA,BMD,060,false,2,Bermudian Dollar
+BHUTAN,INR,356,false,2,Indian Rupee
+BHUTAN,BTN,064,false,2,Ngultrum
+BOLIVIA (PLURINATIONAL STATE OF),BOB,068,false,2,Boliviano
+BOLIVIA (PLURINATIONAL STATE OF),BOV,984,true,2,Mvdol
+"BONAIRE, SINT EUSTATIUS AND SABA",USD,840,false,2,US Dollar
+BOSNIA AND HERZEGOVINA,BAM,977,false,2,Convertible Mark
+BOTSWANA,BWP,072,false,2,Pula
+BOUVET ISLAND,NOK,578,false,2,Norwegian Krone
+BRAZIL,BRL,986,false,2,Brazilian Real
+BRITISH INDIAN OCEAN TERRITORY (THE),USD,840,false,2,US Dollar
+BRUNEI DARUSSALAM,BND,096,false,2,Brunei Dollar
+BULGARIA,BGN,975,false,2,Bulgarian Lev
+BURKINA FASO,XOF,952,false,0,CFA Franc BCEAO
+BURUNDI,BIF,108,false,0,Burundi Franc
+CABO VERDE,CVE,132,false,2,Cabo Verde Escudo
+CAMBODIA,KHR,116,false,2,Riel
+CAMEROON,XAF,950,false,0,CFA Franc BEAC
+CANADA,CAD,124,false,2,Canadian Dollar
+CAYMAN ISLANDS (THE),KYD,136,false,2,Cayman Islands Dollar
+CENTRAL AFRICAN REPUBLIC (THE),XAF,950,false,0,CFA Franc BEAC
+CHAD,XAF,950,false,0,CFA Franc BEAC
+CHILE,CLP,152,false,0,Chilean Peso
+CHILE,CLF,990,true,4,Unidad de Fomento
+CHINA,CNY,156,false,2,Yuan Renminbi
+CHRISTMAS ISLAND,AUD,036,false,2,Australian Dollar
+COCOS (KEELING) ISLANDS (THE),AUD,036,false,2,Australian Dollar
+COLOMBIA,COP,170,false,2,Colombian Peso
+COLOMBIA,COU,970,true,2,Unidad de Valor Real
+COMOROS (THE),KMF,174,false,0,Comorian Franc
+CONGO (THE DEMOCRATIC REPUBLIC OF THE),CDF,976,false,2,Congolese Franc
+CONGO (THE),XAF,950,false,0,CFA Franc BEAC
+COOK ISLANDS (THE),NZD,554,false,2,New Zealand Dollar
+COSTA RICA,CRC,188,false,2,Costa Rican Colon
+CÔTE D&apos;IVOIRE,XOF,952,false,0,CFA Franc BCEAO
+CROATIA,EUR,978,false,2,Euro
+CUBA,CUP,192,false,2,Cuban Peso
+CURAÇAO,XCG,532,false,2,Caribbean Guilder
+CYPRUS,EUR,978,false,2,Euro
+CZECHIA,CZK,203,false,2,Czech Koruna
+DENMARK,DKK,208,false,2,Danish Krone
+DJIBOUTI,DJF,262,false,0,Djibouti Franc
+DOMINICA,XCD,951,false,2,East Caribbean Dollar
+DOMINICAN REPUBLIC (THE),DOP,214,false,2,Dominican Peso
+ECUADOR,USD,840,false,2,US Dollar
+EGYPT,EGP,818,false,2,Egyptian Pound
+EL SALVADOR,SVC,222,false,2,El Salvador Colon
+EL SALVADOR,USD,840,false,2,US Dollar
+EQUATORIAL GUINEA,XAF,950,false,0,CFA Franc BEAC
+ERITREA,ERN,232,false,2,Nakfa
+ESTONIA,EUR,978,false,2,Euro
+ESWATINI,SZL,748,false,2,Lilangeni
+ETHIOPIA,ETB,230,false,2,Ethiopian Birr
+EUROPEAN UNION,EUR,978,false,2,Euro
+FALKLAND ISLANDS (THE) [MALVINAS],FKP,238,false,2,Falkland Islands Pound
+FAROE ISLANDS (THE),DKK,208,false,2,Danish Krone
+FIJI,FJD,242,false,2,Fiji Dollar
+FINLAND,EUR,978,false,2,Euro
+FRANCE,EUR,978,false,2,Euro
+FRENCH GUIANA,EUR,978,false,2,Euro
+FRENCH POLYNESIA,XPF,953,false,0,CFP Franc
+FRENCH SOUTHERN TERRITORIES (THE),EUR,978,false,2,Euro
+GABON,XAF,950,false,0,CFA Franc BEAC
+GAMBIA (THE),GMD,270,false,2,Dalasi
+GEORGIA,GEL,981,false,2,Lari
+GERMANY,EUR,978,false,2,Euro
+GHANA,GHS,936,false,2,Ghana Cedi
+GIBRALTAR,GIP,292,false,2,Gibraltar Pound
+GREECE,EUR,978,false,2,Euro
+GREENLAND,DKK,208,false,2,Danish Krone
+GRENADA,XCD,951,false,2,East Caribbean Dollar
+GUADELOUPE,EUR,978,false,2,Euro
+GUAM,USD,840,false,2,US Dollar
+GUATEMALA,GTQ,320,false,2,Quetzal
+GUERNSEY,GBP,826,false,2,Pound Sterling
+GUINEA,GNF,324,false,0,Guinean Franc
+GUINEA-BISSAU,XOF,952,false,0,CFA Franc BCEAO
+GUYANA,GYD,328,false,2,Guyana Dollar
+HAITI,HTG,332,false,2,Gourde
+HAITI,USD,840,false,2,US Dollar
+HEARD ISLAND AND McDONALD ISLANDS,AUD,036,false,2,Australian Dollar
+HOLY SEE (THE),EUR,978,false,2,Euro
+HONDURAS,HNL,340,false,2,Lempira
+HONG KONG,HKD,344,false,2,Hong Kong Dollar
+HUNGARY,HUF,348,false,2,Forint
+ICELAND,ISK,352,false,0,Iceland Krona
+INDIA,INR,356,false,2,Indian Rupee
+INDONESIA,IDR,360,false,2,Rupiah
+INTERNATIONAL MONETARY FUND (IMF) ,XDR,960,false,N.A.,SDR (Special Drawing Right)
+IRAN (ISLAMIC REPUBLIC OF),IRR,364,false,2,Iranian Rial
+IRAQ,IQD,368,false,3,Iraqi Dinar
+IRELAND,EUR,978,false,2,Euro
+ISLE OF MAN,GBP,826,false,2,Pound Sterling
+ISRAEL,ILS,376,false,2,New Israeli Sheqel
+ITALY,EUR,978,false,2,Euro
+JAMAICA,JMD,388,false,2,Jamaican Dollar
+JAPAN,JPY,392,false,0,Yen
+JERSEY,GBP,826,false,2,Pound Sterling
+JORDAN,JOD,400,false,3,Jordanian Dinar
+KAZAKHSTAN,KZT,398,false,2,Tenge
+KENYA,KES,404,false,2,Kenyan Shilling
+KIRIBATI,AUD,036,false,2,Australian Dollar
+KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF),KPW,408,false,2,North Korean Won
+KOREA (THE REPUBLIC OF),KRW,410,false,0,Won
+KUWAIT,KWD,414,false,3,Kuwaiti Dinar
+KYRGYZSTAN,KGS,417,false,2,Som
+LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE),LAK,418,false,2,Lao Kip
+LATVIA,EUR,978,false,2,Euro
+LEBANON,LBP,422,false,2,Lebanese Pound
+LESOTHO,LSL,426,false,2,Loti
+LESOTHO,ZAR,710,false,2,Rand
+LIBERIA,LRD,430,false,2,Liberian Dollar
+LIBYA,LYD,434,false,3,Libyan Dinar
+LIECHTENSTEIN,CHF,756,false,2,Swiss Franc
+LITHUANIA,EUR,978,false,2,Euro
+LUXEMBOURG,EUR,978,false,2,Euro
+MACAO,MOP,446,false,2,Pataca
+NORTH MACEDONIA,MKD,807,false,2,Denar
+MADAGASCAR,MGA,969,false,2,Malagasy Ariary
+MALAWI,MWK,454,false,2,Malawi Kwacha
+MALAYSIA,MYR,458,false,2,Malaysian Ringgit
+MALDIVES,MVR,462,false,2,Rufiyaa
+MALI,XOF,952,false,0,CFA Franc BCEAO
+MALTA,EUR,978,false,2,Euro
+MARSHALL ISLANDS (THE),USD,840,false,2,US Dollar
+MARTINIQUE,EUR,978,false,2,Euro
+MAURITANIA,MRU,929,false,2,Ouguiya
+MAURITIUS,MUR,480,false,2,Mauritius Rupee
+MAYOTTE,EUR,978,false,2,Euro
+MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP,XUA,965,false,N.A.,ADB Unit of Account
+MEXICO,MXN,484,false,2,Mexican Peso
+MEXICO,MXV,979,true,2,Mexican Unidad de Inversion (UDI)
+MICRONESIA (FEDERATED STATES OF),USD,840,false,2,US Dollar
+MOLDOVA (THE REPUBLIC OF),MDL,498,false,2,Moldovan Leu
+MONACO,EUR,978,false,2,Euro
+MONGOLIA,MNT,496,false,2,Tugrik
+MONTENEGRO,EUR,978,false,2,Euro
+MONTSERRAT,XCD,951,false,2,East Caribbean Dollar
+MOROCCO,MAD,504,false,2,Moroccan Dirham
+MOZAMBIQUE,MZN,943,false,2,Mozambique Metical
+MYANMAR,MMK,104,false,2,Kyat
+NAMIBIA,NAD,516,false,2,Namibia Dollar
+NAMIBIA,ZAR,710,false,2,Rand
+NAURU,AUD,036,false,2,Australian Dollar
+NEPAL,NPR,524,false,2,Nepalese Rupee
+NETHERLANDS (THE),EUR,978,false,2,Euro
+NEW CALEDONIA,XPF,953,false,0,CFP Franc
+NEW ZEALAND,NZD,554,false,2,New Zealand Dollar
+NICARAGUA,NIO,558,false,2,Cordoba Oro
+NIGER (THE),XOF,952,false,0,CFA Franc BCEAO
+NIGERIA,NGN,566,false,2,Naira
+NIUE,NZD,554,false,2,New Zealand Dollar
+NORFOLK ISLAND,AUD,036,false,2,Australian Dollar
+NORTHERN MARIANA ISLANDS (THE),USD,840,false,2,US Dollar
+NORWAY,NOK,578,false,2,Norwegian Krone
+OMAN,OMR,512,false,3,Rial Omani
+PAKISTAN,PKR,586,false,2,Pakistan Rupee
+PALAU,USD,840,false,2,US Dollar
+"PALESTINE, STATE OF",,,false,,No universal currency
+PANAMA,PAB,590,false,2,Balboa
+PANAMA,USD,840,false,2,US Dollar
+PAPUA NEW GUINEA,PGK,598,false,2,Kina
+PARAGUAY,PYG,600,false,0,Guarani
+PERU,PEN,604,false,2,Sol
+PHILIPPINES (THE),PHP,608,false,2,Philippine Peso
+PITCAIRN,NZD,554,false,2,New Zealand Dollar
+POLAND,PLN,985,false,2,Zloty
+PORTUGAL,EUR,978,false,2,Euro
+PUERTO RICO,USD,840,false,2,US Dollar
+QATAR,QAR,634,false,2,Qatari Rial
+RÉUNION,EUR,978,false,2,Euro
+ROMANIA,RON,946,false,2,Romanian Leu
+RUSSIAN FEDERATION (THE),RUB,643,false,2,Russian Ruble
+RWANDA,RWF,646,false,0,Rwanda Franc
+SAINT BARTHÉLEMY,EUR,978,false,2,Euro
+"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",SHP,654,false,2,Saint Helena Pound
+SAINT KITTS AND NEVIS,XCD,951,false,2,East Caribbean Dollar
+SAINT LUCIA,XCD,951,false,2,East Caribbean Dollar
+SAINT MARTIN (FRENCH PART),EUR,978,false,2,Euro
+SAINT PIERRE AND MIQUELON,EUR,978,false,2,Euro
+SAINT VINCENT AND THE GRENADINES,XCD,951,false,2,East Caribbean Dollar
+SAMOA,WST,882,false,2,Tala
+SAN MARINO,EUR,978,false,2,Euro
+SAO TOME AND PRINCIPE,STN,930,false,2,Dobra
+SAUDI ARABIA,SAR,682,false,2,Saudi Riyal
+SENEGAL,XOF,952,false,0,CFA Franc BCEAO
+SERBIA,RSD,941,false,2,Serbian Dinar
+SEYCHELLES,SCR,690,false,2,Seychelles Rupee
+SIERRA LEONE,SLE,925,false,2,Leone
+SINGAPORE,SGD,702,false,2,Singapore Dollar
+SINT MAARTEN (DUTCH PART),XCG,532,false,2,Caribbean Guilder
+SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS &quot;SUCRE&quot;,XSU,994,false,N.A.,Sucre
+SLOVAKIA,EUR,978,false,2,Euro
+SLOVENIA,EUR,978,false,2,Euro
+SOLOMON ISLANDS,SBD,090,false,2,Solomon Islands Dollar
+SOMALIA,SOS,706,false,2,Somali Shilling
+SOUTH AFRICA,ZAR,710,false,2,Rand
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,,,false,,No universal currency
+SOUTH SUDAN,SSP,728,false,2,South Sudanese Pound
+SPAIN,EUR,978,false,2,Euro
+SRI LANKA,LKR,144,false,2,Sri Lanka Rupee
+SUDAN (THE),SDG,938,false,2,Sudanese Pound
+SURINAME,SRD,968,false,2,Surinam Dollar
+SVALBARD AND JAN MAYEN,NOK,578,false,2,Norwegian Krone
+SWEDEN,SEK,752,false,2,Swedish Krona
+SWITZERLAND,CHF,756,false,2,Swiss Franc
+SWITZERLAND,CHE,947,true,2,WIR Euro
+SWITZERLAND,CHW,948,true,2,WIR Franc
+SYRIAN ARAB REPUBLIC,SYP,760,false,2,Syrian Pound
+TAIWAN (PROVINCE OF CHINA),TWD,901,false,2,New Taiwan Dollar
+TAJIKISTAN,TJS,972,false,2,Somoni
+"TANZANIA, UNITED REPUBLIC OF",TZS,834,false,2,Tanzanian Shilling
+THAILAND,THB,764,false,2,Baht
+TIMOR-LESTE,USD,840,false,2,US Dollar
+TOGO,XOF,952,false,0,CFA Franc BCEAO
+TOKELAU,NZD,554,false,2,New Zealand Dollar
+TONGA,TOP,776,false,2,Pa’anga
+TRINIDAD AND TOBAGO,TTD,780,false,2,Trinidad and Tobago Dollar
+TUNISIA,TND,788,false,3,Tunisian Dinar
+TÜRKİYE,TRY,949,false,2,Turkish Lira
+TURKMENISTAN,TMT,934,false,2,Turkmenistan New Manat
+TURKS AND CAICOS ISLANDS (THE),USD,840,false,2,US Dollar
+TUVALU,AUD,036,false,2,Australian Dollar
+UGANDA,UGX,800,false,0,Uganda Shilling
+UKRAINE,UAH,980,false,2,Hryvnia
+UNITED ARAB EMIRATES (THE),AED,784,false,2,UAE Dirham
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE),GBP,826,false,2,Pound Sterling
+UNITED STATES MINOR OUTLYING ISLANDS (THE),USD,840,false,2,US Dollar
+UNITED STATES OF AMERICA (THE),USD,840,false,2,US Dollar
+UNITED STATES OF AMERICA (THE),USN,997,true,2,US Dollar (Next day)
+URUGUAY,UYU,858,false,2,Peso Uruguayo
+URUGUAY,UYI,940,true,0,Uruguay Peso en Unidades Indexadas (UI)
+URUGUAY,UYW,927,false,4,Unidad Previsional
+UZBEKISTAN,UZS,860,false,2,Uzbekistan Sum
+VANUATU,VUV,548,false,0,Vatu
+VENEZUELA (BOLIVARIAN REPUBLIC OF),VES,928,false,2,Bolívar Soberano
+VENEZUELA (BOLIVARIAN REPUBLIC OF),VED,926,false,2,Bolívar Soberano
+VIET NAM,VND,704,false,0,Dong
+VIRGIN ISLANDS (BRITISH),USD,840,false,2,US Dollar
+VIRGIN ISLANDS (U.S.),USD,840,false,2,US Dollar
+WALLIS AND FUTUNA,XPF,953,false,0,CFP Franc
+WESTERN SAHARA,MAD,504,false,2,Moroccan Dirham
+YEMEN,YER,886,false,2,Yemeni Rial
+ZAMBIA,ZMW,967,false,2,Zambian Kwacha
+ZIMBABWE,ZWG,924,false,2,Zimbabwe Gold
+ZZ01_Bond Markets Unit European_EURCO,XBA,955,false,N.A.,Bond Markets Unit European Composite Unit (EURCO)
+ZZ02_Bond Markets Unit European_EMU-6,XBB,956,false,N.A.,Bond Markets Unit European Monetary Unit (E.M.U.-6)
+ZZ03_Bond Markets Unit European_EUA-9,XBC,957,false,N.A.,Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+ZZ04_Bond Markets Unit European_EUA-17,XBD,958,false,N.A.,Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+ZZ06_Testing_Code,XTS,963,false,N.A.,Codes specifically reserved for testing purposes
+ZZ07_No_Currency,XXX,999,false,N.A.,The codes assigned for transactions where no currency is involved
+ZZ08_Gold,XAU,959,false,N.A.,Gold
+ZZ09_Palladium,XPD,964,false,N.A.,Palladium
+ZZ10_Platinum,XPT,962,false,N.A.,Platinum
+ZZ11_Silver,XAG,961,false,N.A.,Silver

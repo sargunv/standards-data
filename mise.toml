@@ -1,6 +1,7 @@
 [tools]
-dasel = "latest"
+dasel = "2"
 hk = "latest"
+jq = "latest"
 node = "lts"
 pkl = "latest"
 prettier = "latest"

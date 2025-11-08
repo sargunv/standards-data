@@ -6,6 +6,10 @@ backend = "aqua:TomWright/dasel"
 version = "1.20.0"
 backend = "aqua:jdx/hk"
 
+[[tools.jq]]
+version = "1.8.1"
+backend = "aqua:jqlang/jq"
+
 [[tools.node]]
 version = "24.11.0"
 backend = "core:node"

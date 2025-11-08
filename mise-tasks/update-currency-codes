@@ -3,16 +3,31 @@
 
 set -euo pipefail
 
-function url-to-csv() {
-    curl -s "$1" | dasel -r xml -w csv "$2" > "$3"
-    echo "Updated $3"
+function normalize() {
+    jq -r '.[] | {
+        "Country Name": .CtryNm // "",
+        "Name": if .CcyNm | type == "string" then .CcyNm else .CcyNm."#text" end,
+        "Is Fund": if .CcyNm | type == "string" then false else .CcyNm."-IsFund" and true end,
+        "Currency Code": .Ccy // "",
+        "Currency Number": .CcyNbr // "",
+        "Minor Units": .CcyMnrUnts // ""
+    } + if $include_widthrawal_date == "true"
+        then { "Withdrawal Date": .WthdrwlDt // "" }
+        else {}
+        end
+    ' --arg include_widthrawal_date "$1" \
+    | jq -sr '((first | keys_unsorted), (.[] | to_entries | map(.value))) | @csv' \
+    | dasel -r csv
 }
 
-url-to-csv \
-    'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml' \
-    '.ISO_4217.CcyTbl.CcyNtry' \
-    'currency-codes/current.csv'
-url-to-csv \
-    'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-three.xml' \
-    '.ISO_4217.HstrcCcyTbl.HstrcCcyNtry' \
-    'currency-codes/historical.csv'
+curl -s 'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml' \
+    | dasel -r xml -w json .ISO_4217.CcyTbl.CcyNtry \
+    | normalize false > currency-codes/current.csv
+
+echo "Updated currency-codes/current.csv"
+
+curl -s 'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-three.xml' \
+    | dasel -r xml -w json .ISO_4217.HstrcCcyTbl.HstrcCcyNtry \
+    | normalize true > currency-codes/historical.csv
+
+echo "Updated currency-codes/historical.csv"
