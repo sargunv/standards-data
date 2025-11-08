@@ -1,0 +1,30 @@
+amends "package://github.com/jdx/hk/releases/download/v1.20.0/hk@1.20.0#/Config.pkl"
+import "package://github.com/jdx/hk/releases/download/v1.20.0/hk@1.20.0#/Builtins.pkl"
+
+local linters = new Mapping<String, Step> {
+    ["check-added-large-files"] = (Builtins.check_added_large_files)
+    ["check-merge-conflict"] = (Builtins.check_merge_conflict)
+    ["mixed-line-ending"] = (Builtins.mixed_line_ending)
+    ["end-of-file-fixer"] = (Builtins.newlines)
+    ["trailing-whitespace"] = (Builtins.trailing_whitespace)
+    ["prettier"] = Builtins.prettier
+    ["dasel"] {
+        glob = List("*.csv")
+        check = "dasel validate {{files}}"
+    }
+}
+
+hooks {
+    ["pre-commit"] {
+        fix = true
+        stash = "git"
+        steps = linters
+    }
+    ["fix"] {
+        fix = true
+        steps = linters
+    }
+    ["check"] {
+        steps = linters
+    }
+}

@@ -1,0 +1,13 @@
+[tools]
+dasel = "latest"
+hk = "latest"
+node = "lts"
+pkl = "latest"
+prettier = "latest"
+
+[settings]
+lockfile = true
+experimental = true
+
+[hooks]
+postinstall = "hk install"

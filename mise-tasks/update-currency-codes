@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#MISE description="Download currency code XMLs from SIX and transform them into CSV"
+
+function url-to-csv() {
+    curl -s "$1" | dasel -r xml -w csv "$2" > "$3"
+    echo "Updated $3"
+}
+
+url-to-csv \
+    'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml' \
+    '.ISO_4217.CcyTbl.CcyNtry' \
+    'currency-codes/current.csv'
+url-to-csv \
+    'https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-three.xml' \
+    '.ISO_4217.HstrcCcyTbl.HstrcCcyNtry' \
+    'currency-codes/historical.csv'
